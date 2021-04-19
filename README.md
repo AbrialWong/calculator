@@ -28,7 +28,7 @@ Step 2:  Change directory to your folderName
 ```
 cd [folderName]
 ```
-Step 3: Run npm install / npm i to download the missing node_modules fles
+Step 3: Git clone or download the zip files of this project
 ```
 git clone https://github.com/AbrialWong/calculator.git or download the zip files
 ```
